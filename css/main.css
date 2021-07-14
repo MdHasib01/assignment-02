@@ -218,9 +218,6 @@ footer i {
 
 /* Mobile Media Query  */
 @media screen and (max-width: 767px) {
-  body {
-    background-color: rgba(255, 0, 0, 0.363);
-  }
   #nav {
     display: none;
   }
@@ -298,9 +295,7 @@ footer i {
   .container {
     max-width: 800px;
   }
-  body {
-    background-color: rgba(0, 128, 0, 0.301);
-  }
+
   #banner .left-col h1 {
     font-size: 36px;
   }
